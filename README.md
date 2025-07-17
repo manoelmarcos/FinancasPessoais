@@ -20,7 +20,7 @@ Esta ferramenta foi criada para ajudar você a controlar melhor suas finanças p
 
 ## Como começar
 
-1. **Baixe o arquivo ZIP** contendo o Dashboard e a planilha Excel: [Clique aqui para baixar](#)
+1. **Baixe o arquivo ZIP** contendo o Dashboard e a planilha Excel: [Clique aqui para baixar](https://github.com/manoelmarcos/FinancasPessoais/blob/master/Finan%C3%A7as%20Pessoais%20-%202025%20(modelo).xlsx)
 2. **Crie a pasta local** `C:\Finanças Pessoais` e descompacte os arquivos nela.
 3. **Abra a planilha Excel** (dados fictícios para exemplo) e personalize as abas **Receitas** e **Despesas** com seus lançamentos. Você pode incluir lançamentos futuros para projetar seu fluxo financeiro.
 4. **Salve a planilha** após editar.
