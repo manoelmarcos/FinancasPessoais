@@ -4,13 +4,11 @@ Olá, conexões! 👋
 
 Estou muito feliz em compartilhar com vocês um projeto pessoal em que trabalhei nas últimas semanas: um **Dashboard de Finanças Pessoais no Power BI**, disponível **gratuitamente para download**! 💰📊
 
----
 
 ## O que é este Dashboard?
 
 Esta ferramenta foi criada para ajudar você a controlar melhor suas finanças pessoais. Com uma interface intuitiva e gráficos claros, você poderá acompanhar suas receitas, despesas e entender seus hábitos financeiros para tomar decisões mais inteligentes.
 
----
 
 ## Principais recursos
 
@@ -19,7 +17,6 @@ Esta ferramenta foi criada para ajudar você a controlar melhor suas finanças p
 * 🔍 **Detalhamento por categorias:** saiba exatamente para onde seu dinheiro está indo.
 * 🗓️ **Planejamento financeiro:** faça projeções e monitore suas metas com facilidade.
 
----
 
 ## Como começar
 
