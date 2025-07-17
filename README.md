@@ -29,7 +29,6 @@ Esta ferramenta foi criada para ajudar você a controlar melhor suas finanças p
 7. Clique em **Atualizar (Refresh)** sempre que fizer alterações na planilha para ver os dados atualizados.
 8. Explore as **cinco abas** do Dashboard e personalize conforme suas preferências.
 
----
 
 ## Abas do Dashboard
 
@@ -41,13 +40,11 @@ Esta ferramenta foi criada para ajudar você a controlar melhor suas finanças p
 | Gastos Diários       | Acompanhamento diário dos gastos                    | ![Gastos Diários](https://github.com/user-attachments/assets/e71c73d8-1aa1-4d17-90c9-42f8b97f233b)       |
 | Dados Detalhados     | Tabela detalhada com todos os lançamentos           | ![Dados Detalhados](https://github.com/user-attachments/assets/c4f0aa7e-f1e9-4197-ba08-a26f1305382a)     |
 
----
 
 ## Dica Extra 🔥
 
 Você pode manter vários controles financeiros no mesmo arquivo do Dashboard. Basta duplicar a planilha Excel, renomeá-la com um título personalizado (ex: `Finanças Pessoais - João.xlsx`) e ajustar o caminho da fonte de dados no Power BI Desktop.
 
----
 
 ## Seu apoio faz a diferença! ☕️😊
 
@@ -58,12 +55,9 @@ Se você está gostando do conteúdo gratuito e quer apoiar meu trabalho, pode m
 **Via Pix:**
 Chave Pix: `a7fcd974-97a8-4a11-a8fe-cd4e01af668f`
 
----
-
 **Via PayPal:**
 [![Doe pelo PayPal](https://img.shields.io/badge/Doar%20pelo-PayPal-005EA6?style=for-the-badge\&logo=paypal\&logoColor=white)](https://www.paypal.com/donate/?business=XHNZJAJU3MG58&no_recurring=0&item_name=Seu+apoio+%C3%A9+muito+importante+para+eu+continuar+criando+conte%C3%BAdos+de+qualidade+e+ajudar+mais+pessoas+a+aprender.&currency_code=BRL)
 
----
 
 <img width="128" height="128" alt="QR Code Pix" src="https://github.com/user-attachments/assets/9eaf16f3-d2c1-4ca1-8875-449722cbfe16" />
 
