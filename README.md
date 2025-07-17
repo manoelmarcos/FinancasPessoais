@@ -26,16 +26,16 @@ Como Instalar:
 1. Faça o download do arquivo zipado que contém o Dashboard e Planilha Excel no link para Download: Clique aqui para fazer o download
 2. Crie a pasta local C:\Finanças Pessoais e descompacte os arquivos aqui
 3. Abra o arquivo Excel, que é uma fonte com dados fakes, edite os lançamentos das abas Receitas e Despesas. Você também poderá realizar lançamentos com datas futuras para ter uma ideia de projeção do seu fluxo financeiro.
-5. Após editar os lançamentos salve a planilha e abra o Power BI Desktop (caso não tenha, você pode baixá-lo gratuitamente em [https://www.microsoft.com/en-us/download/details.aspx?id=58494] ).
-6. Abra o arquivo do Dashboard no Power BI.
-
+4. Após editar os lançamentos salve a planilha e abra o Power BI Desktop (caso não tenha, você pode baixá-lo gratuitamente em [https://www.microsoft.com/en-us/download/details.aspx?id=58494] ).
+5. Abra o arquivo do Dashboard no Power BI.
+6. Clique em atualizar (refresh) para cada alteração e save que fizer na planilha para ver o resultado.
 [Aba: Dashboard]
 
 
 <img width="1919" height="1016" alt="1691714563168" src="https://github.com/user-attachments/assets/5556dff7-a708-4272-84b5-c916f9a6516d" />
 
-7. Clique em atualizar (refresh) para cada alteração e save que fizer na planilha para ver o resultado.
-
+7. Explore e personalize o Dashboard de acordo com suas preferências! São cinco abas para você "pilotar"
+8. 
 [Aba: Dashboard]
 
 <img width="1488" height="831" alt="1691715056321" src="https://github.com/user-attachments/assets/e1887249-fdbe-491d-9eb7-38852d3bfda3" />
