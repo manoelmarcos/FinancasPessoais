@@ -1,7 +1,7 @@
 # Finanças Pessoais
 Dashboard de Finanças Pessoais no Power BI - Gratuito para Download!
 
-📊🔍 Compartilhando uma Novidade: Dashboard de Finanças Pessoais no Power BI - Gratuito para Download! 🔍📊
+📊🔍 Compartilhando uma Novidade: Dashboard de Finanças Pessoais no Power BI - Gratuito para Download! 
 
 Olá conexões!
 
@@ -65,6 +65,10 @@ Estou entusiasmado para compartilhar essa ferramenta com a comunidade e espero q
 
 Se tiverem alguma dúvida ou feedback, não hesitem em me contatar. Vamos juntos alcançar nossos objetivos financeiros! 💪💼
 
+# Considere me oferecer um café ☕️😊
+
+Se você está gostando do conteúdo gratuito e quer apoiar meu trabalho, pode me oferecer um café ☕️ com uma doação rápida e segura!
+
 ## Como doar
 
 **Via Pix:**  
@@ -76,4 +80,9 @@ Envie a doação para a minha chave Pix:
 **Via PayPal:**  
 [![Doe pelo PayPal](https://img.shields.io/badge/Doar%20pelo-PayPal-005EA6?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=XHNZJAJU3MG58&no_recurring=0&item_name=Seu+apoio+%C3%A9+muito+importante+para+eu+continuar+criando+conte%C3%BAdos+de+qualidade+e+ajudar+mais+pessoas+a+aprender.&currency_code=BRL)
 
+<img width="128" height="128" alt="QR Code" src="https://github.com/user-attachments/assets/9eaf16f3-d2c1-4ca1-8875-449722cbfe16" />
 
+
+Seu apoio é muito importante para eu continuar criando conteúdos de qualidade e ajudar mais pessoas a aprender.
+
+Muito obrigado! 🙏
