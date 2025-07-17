@@ -23,19 +23,42 @@ Recursos do Dashboard:
 
 Como Instalar:
 
-Faça o download do arquivo zipado que contém o Dashboard e Planilha Excel no link para Download: Clique aqui para fazer o download
-Crie a pasta local C:\Finanças Pessoais e descompacte os arquivos aqui
-Abra o arquivo Excel, que é uma fonte com dados fakes, edite os lançamentos das abas Receitas e Despesas. Você também poderá realizar lançamentos com datas futuras para ter uma ideia de projeção do seu fluxo financeiro.
-Após editar os lançamentos salve a planilha e abra o Power BI Desktop (caso não tenha, você pode baixá-lo gratuitamente em [https://www.microsoft.com/en-us/download/details.aspx?id=58494] ).
-Abra o arquivo do Dashboard no Power BI.
-Clique em atualizar (refresh) para cada alteração e save que fizer na planilha para ver o resultado.
+1. Faça o download do arquivo zipado que contém o Dashboard e Planilha Excel no link para Download: Clique aqui para fazer o download
+2. Crie a pasta local C:\Finanças Pessoais e descompacte os arquivos aqui
+3. Abra o arquivo Excel, que é uma fonte com dados fakes, edite os lançamentos das abas Receitas e Despesas. Você também poderá realizar lançamentos com datas futuras para ter uma ideia de projeção do seu fluxo financeiro.
+5. Após editar os lançamentos salve a planilha e abra o Power BI Desktop (caso não tenha, você pode baixá-lo gratuitamente em [https://www.microsoft.com/en-us/download/details.aspx?id=58494] ).
+6. Abra o arquivo do Dashboard no Power BI.
+
+[Aba: Dashboard]
+
 
 <img width="1919" height="1016" alt="1691714563168" src="https://github.com/user-attachments/assets/5556dff7-a708-4272-84b5-c916f9a6516d" />
+
+7. Clique em atualizar (refresh) para cada alteração e save que fizer na planilha para ver o resultado.
+
+[Aba: Dashboard]
+
 <img width="1488" height="831" alt="1691715056321" src="https://github.com/user-attachments/assets/e1887249-fdbe-491d-9eb7-38852d3bfda3" />
+
+[Aba: Cash Flow]
+
 <img width="1488" height="836" alt="1691715177399" src="https://github.com/user-attachments/assets/a1ad18c4-e7b6-4195-9fcf-f84a4b9dea7a" />
+
+
+[Aba: Despesas vs Entradas por categoria]
 <img width="1488" height="837" alt="1691715267110" src="https://github.com/user-attachments/assets/74b90ede-025c-4784-a38b-928b2bbf4359" />
+
+[Aba: Gastos Diários]
+
 <img width="1488" height="835" alt="1691715464079" src="https://github.com/user-attachments/assets/e71c73d8-1aa1-4d17-90c9-42f8b97f233b" />
+
+[Aba: Dados detalhados]
+
 <img width="1000" height="762" alt="1691715858356" src="https://github.com/user-attachments/assets/c4f0aa7e-f1e9-4197-ba08-a26f1305382a" />
+
+🔥Uma dica: você também pode ter vários controles financeiros com o mesmo arquivo do Dashboard, basta copiar a planilha e adicionar um nome personalizado ex: Finanças Pessoais - Meu Nome.xlsx e trocar o caminho do arquivo no Power BI Desktop 
+
+
 <img width="815" height="355" alt="1691715783968" src="https://github.com/user-attachments/assets/82aaf72a-cc84-4a0f-a197-bec370cf2d4a" />
 
 Estou entusiasmado para compartilhar essa ferramenta com a comunidade e espero que ela seja útil para vocês na jornada rumo a uma vida financeira mais saudável e controlada.
